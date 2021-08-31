@@ -12,13 +12,13 @@ now the user selects another option from the given menu. The action correspondin
 ATM Banking system project is based on a concept of managing an account personally. From this system, the user can check total balance, Deposit Amount and Withdraw Amounts easily as it is not time-consuming. 
 
 These consists of 7 modules
-1.withdraw amount
-2.deposit amount
-3.transfer amount
-4.check balance
-5.show accout transaction log
-6.change pin
-7.save and exit
+1. Withdraw amount
+2. Deposit amount
+3. Transfer amount
+4. Check balance
+5. Show accout transaction log
+6. Change pin
+7. Save and Exit
 
 ## Benefits:
 1. It saves a lot of time for the users. 
